@@ -2,7 +2,7 @@
 ### javbus论坛每日签到 <br>
 根据https://github.com/leeairw/Enshan 项目修改而来
 
-192.168.50.1:8188
+http://192.168.50.1:8188
 
 
 ### 使用方法<br> 
